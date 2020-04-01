@@ -1,0 +1,12 @@
+{
+  "name": "04-lists",
+  "version": "1.0.0",
+  "main": "service.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node 01-for-forin-forof.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
