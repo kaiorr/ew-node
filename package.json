@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "kaiorr <kaio.rocharibeiro@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
