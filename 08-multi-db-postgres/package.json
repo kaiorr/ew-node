@@ -1,0 +1,17 @@
+{
+  "name": "08-multi-db-postgres",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha -w *test.js"
+  },
+  "dependencies": {
+    "pg": "^8.0.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.6"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  }
+}
