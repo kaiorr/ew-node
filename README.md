@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="" src="logo.svg" background-color="#000">
+  <img alt="" src="logo.svg">
 </p>
 
 <h2 align="center">Curso Nodejs para Iniciantes</h2>
